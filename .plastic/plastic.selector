@@ -1,0 +1,4 @@
+repository "MoveController@wanhuo12345678@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
